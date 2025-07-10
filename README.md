@@ -42,7 +42,7 @@ The interface includes smooth transitions, modern buttons, and structured page n
 ![PART-5](https://github.com/user-attachments/assets/1de5bc50-8cc9-4177-8a14-7413585189f6)
 
 ### 📬 Feedback & Requests  
-📧 Request raw `.pbix` files or full DAX code via: **henite2005@gmail.com**  
+📧 Request raw **.pbix** files or full DAX code via: **henite2005@gmail.com**  
 👉 Feel free to send suggestions or report bugs.
 
 ![PART-6](https://github.com/user-attachments/assets/d7fbfddc-a567-48bc-a226-cabf30d2e540)
