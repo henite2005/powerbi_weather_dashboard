@@ -3,7 +3,7 @@
 🌦️ Interactive Weather Dashboard in Power BI
 
 This project showcases a responsive, animated **Weather Dashboard** integrated into Power BI. 
-The interface includes smooth transitions, modern buttons, and structured page navigation for real-time weather interaction or simulation.
+The interface includes smooth transitions, modern buttons, and structured page navigation for weather interaction or simulation.
 
 ![PART-1](https://github.com/user-attachments/assets/578b822c-44d5-4ca1-a1c3-97d7f3d6d635)
 
